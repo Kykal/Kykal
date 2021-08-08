@@ -1,2 +1,4 @@
 ### Alan 'Kykal' Benavides
-##### Student at Universidad Autónoma de Nuevo León
+
+Languages and Tools:
+[https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg][JavaScript]
