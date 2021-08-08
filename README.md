@@ -2,7 +2,7 @@
 
 ### Languages and Tools:
 [<img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"  />][HTML_Site]
-[<img align="left" alt="CSS" width="3px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][CSS_Site]
+[<img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][CSS_Site]
 [<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][JavaScript_Site]
 [<img align="left" alt="Node.JS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][NodeJS_Site]
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][React_Site]
