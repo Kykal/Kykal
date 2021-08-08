@@ -1,7 +1,7 @@
 ### Hello, there!
 
 ### Languages and Tools:
-[<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"  />][HTML_Site]
+[<img align="left" alt="CSS" width="26px" target="_blank" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"  />][HTML_Site]
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][CSS_Site]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][JavaScript_Site]
 [<img align="left" alt="Node.JS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][NodeJS_Site]
