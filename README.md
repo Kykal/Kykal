@@ -1,4 +1,4 @@
-### Hello, there! I am Alan, AKA 'Kykal', welcome to my profie!
+### Hello, there! I am Alan and welcome to my profie!
 
 ### Languages and Tools:
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"  />][HTML_Site]
