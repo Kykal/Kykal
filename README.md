@@ -7,8 +7,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][JavaScript_Site]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />][Python_Site]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" />][Lua_Site]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png" />][C_Site]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" />][CPP_Sie]
 
 
 
@@ -18,5 +16,3 @@
 [JavaScript_Site]: https://developer.mozilla.org/en-US/docs/Web/JavaScriptw
 [CSS_Site]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [HTML_SITE]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[Python_Site]: 
-[Lua_Site]: 
