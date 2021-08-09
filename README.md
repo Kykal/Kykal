@@ -4,9 +4,9 @@
 [<img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />][VisualStudioCode_Site]
 [<img align="left" alt="Unity" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" />][Unity_Site]
 
-[<img align="middle" alt="HTML" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"  />][HTML_Site]
-[<img align="middle" alt="CSS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][CSS_Site]
-[<img align="middle" alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />][Bootstrap_Site]
+[<img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"  />][HTML_Site]
+[<img align="lefte" alt="CSS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][CSS_Site]
+[<img align="left" alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" />][Bootstrap_Site]
 
 [<img align="right" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][JavaScript_Site]
 [<img align="right" alt="Node.JS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][NodeJS_Site]
