@@ -9,7 +9,6 @@
 [<img align="left" alt="Node.JS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" />][NodeJS_Site]
 [<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][React_Site]
 [<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" />][Python_Site]
-[<img align="left" alt="Lua" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" />][Lua_Site]
 
 
 
@@ -18,7 +17,6 @@
 [CSS_Site]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [HTML_SITE]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [JavaScript_Site]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[Lua_Site]: https://www.lua.org/about.html
 [NodeJS_Site]: https://nodejs.org/en/about/
 [Python_Site]: https://www.python.org/about/
 [React_Site]: https://reactjs.org/
