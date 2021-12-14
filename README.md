@@ -21,7 +21,9 @@ I'm a future software engineer focusing on web development using the most recent
 <a href="https://reactjs.org/">
   <img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React.js" width="32px" />
 </a>
+
 - - -
+
 I also like to develop videogames
 ### Technologies and tools
 <a href="https://www.unrealengine.com/en-US/">
