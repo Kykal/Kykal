@@ -1,5 +1,5 @@
 ### Hey, Benavides here!
-I'm a future software engineer focusing on web development using the most recent technologies. The world evolves so fast that it is hard to keep the track, so I try to stay tuned. I also like to learn how to develop videogames (Mobile, Console and PC)
+I'm a future software engineer focusing on web development using the most recent technologies. The world evolves so fast that it is hard to keep the track, so I try to stay tuned. I also like to learn how to develop <strong>videogames</strong> (Mobile, Console and PC).
 - - -
 ### Technologies and tools
 <div>
