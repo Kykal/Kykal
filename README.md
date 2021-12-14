@@ -26,4 +26,8 @@ I'm a future software engineer focusing on web development using the most recent
   <a href="https://nodejs.org/en/">
     <img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" alt="Node.js" width="32px" />
   </a>
+  
+  <a href="https://www.python.org/">
+    <img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="32px" />
+  </a>
 </div>
