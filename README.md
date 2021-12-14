@@ -1,5 +1,5 @@
 ### Hey, Benavides here!
-I'm a future software engineer focusing on web development using the most recent technologies. The world evolves so fast that it is hard to keep the track, so I try to stay tuned.
+I'm a future software engineer focusing on web development using the most recent technologies. The world evolves so fast that it is hard to keep the track, so I try to stay tuned. I also like to learn how to develop videogames (Mobile, Console and PC)
 - - -
 ### Technologies and tools
 <div>
@@ -23,16 +23,3 @@ I'm a future software engineer focusing on web development using the most recent
     <img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React.js" width="32px" />
   </a>
 </div>
-</br>
-
-- - -
-
-I also like to develop videogames
-### Technologies and tools
-<a href="https://www.unrealengine.com/en-US/">
-  <img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/unreal-engine/unreal-engine.png" alt="Unreal Engine" width="32px" />
-</a>
-
-<a href="https://unity.com/">
-  <img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" width="32px" />
-</a>
