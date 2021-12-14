@@ -14,7 +14,7 @@ I'm a future software engineer focusing on web development using the most recent
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" >
     <img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" alt="Cascade Style Sheet" width="32px" />
   </a>
-
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="32px" />
   </a>
