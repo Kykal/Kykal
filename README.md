@@ -33,7 +33,3 @@ I also like to develop videogames
 <a href="https://unity.com/">
   <img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/unity/unity.png" alt="Unity" width="32px" />
 </a>
-
-<a href="">
-  <img align="left" src="" alt="" width="32px" />
-</a>
