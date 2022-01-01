@@ -8,18 +8,11 @@ I develop websites for fun, most of them are video game themed, I am also learni
 
 | Likes | Dislikes|
 | ----- | ------- |
-| a | b |
-
-
-### Likes
-- ❄️ Cold temperatures
-- 🌧️ Rainy days
-- 🚶 To walk
-- 🌶️ Spicy food
-- 👾 Video games
-
-### Dislikes
-- ☀️ Hot temperatures
+| - ❄️ Cold temperatures | - ☀️ Hot temperatures |
+| - 🌧️ Rainy days | |
+| - 🚶 To walk |
+| - 🌶️ Spicy food |
+| - 👾 Video games |  |
 
 
 ## Contact
