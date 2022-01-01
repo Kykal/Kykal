@@ -11,6 +11,7 @@ I develop websites for fun, most of them are video game themed, I am also learni
 - 🌧️ Rainy days
 - 🚶 To walk
 - 🌶️ Spicy food
+- 👾 Video games
 
 ### Dislikes
 - ☀️ Hot temperatures
