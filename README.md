@@ -10,6 +10,7 @@ I develop websites for fun, most of them are video game themed, I am also learni
 - ❄️ Cold temperatures
 - 🌧️ Rainy days
 - 🚶 To walk
+- 🌶️ Spicy food
 
 ### Dislikes
 - ☀️ Hot temperatures
