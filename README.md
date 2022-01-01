@@ -13,6 +13,7 @@ I develop websites for fun, most of them are video game themed, I am also learni
 
 ### Video game development tools
 [<img align="left" alt="Unity" width="45" src="https://user-images.githubusercontent.com/54295964/147859908-795e88dd-caa7-4c6f-bde7-5619165a0935.png" >](https://unity.com/)
+[<img align="left" alt="C#" width="45" src="https://user-images.githubusercontent.com/54295964/147859954-25306043-dc40-4d52-97c7-c4d26b26a4e7.png" >](https://unity.com/)
 
 <br>
 <br>
