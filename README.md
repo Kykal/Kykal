@@ -6,3 +6,5 @@ I develop websites for fun, most of them are video game themed, I am also learni
 
 [<img align="left" alt="Gmail" width="40" src="https://user-images.githubusercontent.com/54295964/147859186-85c9d150-0859-412b-8f35-5d538e9eb02e.png
 " >](mailto:kykalhd@gmail.com)
+
+![logo-Gmail-1](https://user-images.githubusercontent.com/54295964/147859197-41108e3e-64fd-4fd4-a778-83c77ec8b3db.png)
