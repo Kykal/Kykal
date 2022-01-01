@@ -14,6 +14,8 @@ I develop websites for fun, most of them are video game themed, I am also learni
 ### Video game development tools
 [<img align="left" alt="Unity" height="40" src="https://user-images.githubusercontent.com/54295964/147859650-a0a972d2-7d93-4251-8502-e1bf80f5a9d2.png" >](https://unity.com/)
 
+<br>
+<br>
 
 ### Web development languages, libraries and tools
 [<img align="left" alt="ReactJS" width="40" src="https://user-images.githubusercontent.com/54295964/147859363-9b3664c2-16e5-4942-9543-85a13448a15c.png" >](https://reactjs.org/)
@@ -21,7 +23,6 @@ I develop websites for fun, most of them are video game themed, I am also learni
 [<img align="left" alt="JavaScript" width="40" src="https://user-images.githubusercontent.com/54295964/147859442-0de8e123-5f7b-4a72-b4bc-31a263574b2f.png" >](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="Cascade Style Sheet" height="40" src="https://user-images.githubusercontent.com/54295964/147859590-e253afcb-bec5-4102-a9e0-bbd205f9834c.png" >](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="CSS" height="40" src="https://user-images.githubusercontent.com/54295964/147859473-632a977b-eff7-4b35-94d5-298c1c5614aa.png" >](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
 
 <br>
 <br>
