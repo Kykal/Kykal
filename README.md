@@ -6,6 +6,11 @@ I develop websites for fun, most of them are video game themed, I am also learni
 - 🇲🇽 Spanish (native)
 - 🇬🇧 English
 
+| Likes | Dislikes|
+| - - - | - - - - |
+| a | b |
+
+
 ### Likes
 - ❄️ Cold temperatures
 - 🌧️ Rainy days
