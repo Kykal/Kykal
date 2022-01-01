@@ -34,21 +34,3 @@ I develop websites for fun, most of them are video game themed, I am also learni
 ### Day to day tools
 [<img align="left" alt="Visual Studio Code" width="45" src="https://user-images.githubusercontent.com/54295964/147859280-539644b2-61e9-4ed6-9c99-49742d15a104.png" >](https://code.visualstudio.com/)
 [<img align="left" alt="Github Desktop" width="45" src="https://user-images.githubusercontent.com/54295964/147859328-0e7072cb-ba6b-4934-ac7c-691bcad92836.png" >](https://desktop.github.com/)
-
-<br>
-<br>
-
-- - -
-## About me
-### Languages
-- 🇲🇽 Spanish (native)
-- 🇬🇧 English
-
-| Likes | Dislikes|
-| ----- | ------- |
-| ❄️ Cold temperatures | ☀️ Hot temperatures |
-| 🌧️ Rainy days | |
-| 🚶 To walk |
-| 🌶️ Spicy food |
-| 👾 Video games |  |
-
