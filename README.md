@@ -38,6 +38,7 @@ I develop websites for fun, most of them are video game themed, I am also learni
 <br>
 <br>
 
+- - -
 ## About me
 ### Languages
 - 🇲🇽 Spanish (native)
