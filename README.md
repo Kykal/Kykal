@@ -24,9 +24,8 @@ I develop websites for fun, most of them are video game themed, I am also learni
 [<img align="left" alt="Material UI" height="45" src="https://user-images.githubusercontent.com/54295964/147859995-a7e39e25-a75d-41ee-adb5-9304d9a03d7f.png" >](https://www.mongodb.com/)
 [<img align="left" alt="NodeJS" height="45" src="https://user-images.githubusercontent.com/54295964/147860462-b5014a9a-e273-4771-9e39-b60e5738eba6.png" >](https://nodejs.org/en/)
 [<img align="left" alt="JavaScript" width="45" src="https://user-images.githubusercontent.com/54295964/147859442-0de8e123-5f7b-4a72-b4bc-31a263574b2f.png" >](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img align="left" alt="Cascade Style Sheet" height="45" src="https://user-images.githubusercontent.com/54295964/147859590-e253afcb-bec5-4102-a9e0-bbd205f9834c.png" >](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="CSS" height="45" src="https://user-images.githubusercontent.com/54295964/147859473-632a977b-eff7-4b35-94d5-298c1c5614aa.png" >](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
+[<img align="left" alt="Cascade Style Sheet" height="45" src="https://user-images.githubusercontent.com/54295964/147859590-e253afcb-bec5-4102-a9e0-bbd205f9834c.png" >](https://developer.mozilla.org/en-US/docs/Web/CSS)
 <br>
 <br>
 
