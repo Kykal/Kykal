@@ -18,7 +18,7 @@ I develop websites for fun, most of them are video game themed, I am also learni
 <br>
 <br>
 
-### Web development languages, libraries and tools
+### Web development tools
 [<img align="left" alt="ReactJS" width="45" src="https://user-images.githubusercontent.com/54295964/147859363-9b3664c2-16e5-4942-9543-85a13448a15c.png" >](https://reactjs.org/)
 [<img align="left" alt="Material UI" height="45" src="https://user-images.githubusercontent.com/54295964/147859532-439dd29d-d595-4ee3-9f68-9ef067fcf7ca.png" >](https://mui.com/)
 [<img align="left" alt="JavaScript" width="45" src="https://user-images.githubusercontent.com/54295964/147859442-0de8e123-5f7b-4a72-b4bc-31a263574b2f.png" >](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
