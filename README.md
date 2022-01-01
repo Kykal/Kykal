@@ -3,8 +3,8 @@ I develop websites for fun, most of them are video game themed, I am also learni
 
 ## About me
 ### Languages
-🇲🇽 Spanish 
-🇬🇧 English
+- 🇲🇽 Spanish 
+- 🇬🇧 English
 
 ### Likes
 
