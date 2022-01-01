@@ -7,3 +7,8 @@ I develop websites for fun, most of them are video game themed, I am also learni
 [<img align="left" alt="Gmail" width="40" src="https://user-images.githubusercontent.com/54295964/147859234-968ae73b-7f3b-4e29-bb4b-885dfdd249de.png" >](mailto:kykalhd@gmail.com)
 
 [<img align="left" alt="Outlook" width="40" src="https://user-images.githubusercontent.com/54295964/147859235-a4b3c5a8-7b1a-4b02-9d3d-ce096a2fa32c.png" >](mailto:benavdes.alan@hotmail.com)
+- - -
+
+
+### Day to day tools
+[<img align="left" alt="Visual Studio Code" width="40" src="https://user-images.githubusercontent.com/54295964/147859280-539644b2-61e9-4ed6-9c99-49742d15a104.png" >](#)
