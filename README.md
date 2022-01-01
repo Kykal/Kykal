@@ -7,8 +7,10 @@ I develop websites for fun, most of them are video game themed, I am also learni
 - 🇬🇧 English
 
 ### Likes
+- ❄️ Cold temperatures
 
 ### Dislikes
+- ☀️ Hot temperatures
 
 
 ## Contact
