@@ -7,7 +7,7 @@ I develop websites for fun, most of them are video game themed, I am also learni
 [<img align="left" alt="Outlook" width="40" src="https://user-images.githubusercontent.com/54295964/147859235-a4b3c5a8-7b1a-4b02-9d3d-ce096a2fa32c.png" >](mailto:benavdes.alan@hotmail.com)
 
 <br>
-
+<br>
 - - -
 
 ### Day to day tools
