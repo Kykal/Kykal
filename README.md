@@ -8,6 +8,8 @@ I develop websites for fun, most of them are video game themed, I am also learni
 
 ### Likes
 - ❄️ Cold temperatures
+- 🌧️ Rainy days
+- 🚶 To walk
 
 ### Dislikes
 - ☀️ Hot temperatures
