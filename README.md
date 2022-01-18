@@ -20,6 +20,7 @@ I develop websites for fun, most of them are video game themed, I am also learni
 ### Web development tools
 [<img align="left" alt="ReactJS" width="45" src="https://user-images.githubusercontent.com/54295964/147859363-9b3664c2-16e5-4942-9543-85a13448a15c.png" >](https://reactjs.org/)
 [<img align="left" alt="Material UI" height="45" src="https://user-images.githubusercontent.com/54295964/147859532-439dd29d-d595-4ee3-9f68-9ef067fcf7ca.png" >](https://mui.com/)
+[<img align="left" alt="Mantine" height="45" src="https://user-images.githubusercontent.com/54295964/149887770-4a30e3fa-2bd2-46a3-adb3-e5a9546c96f2.png" >](https://mantine.dev/)
 [<img align="left" alt="Material UI" height="45" src="https://user-images.githubusercontent.com/54295964/147859995-a7e39e25-a75d-41ee-adb5-9304d9a03d7f.png" >](https://www.mongodb.com/)
 [<img align="left" alt="NodeJS" height="45" src="https://user-images.githubusercontent.com/54295964/147860462-b5014a9a-e273-4771-9e39-b60e5738eba6.png" >](https://nodejs.org/en/)
 [<img align="left" alt="JavaScript" width="45" src="https://user-images.githubusercontent.com/54295964/147859442-0de8e123-5f7b-4a72-b4bc-31a263574b2f.png" >](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
