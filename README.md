@@ -1,8 +1,8 @@
 # ☃️ Hey, Benavides here!
 I develop websites for fun, most of them are video game themed, I am also learning video game development using [Unity](https://unity.com/) and [Unreal Engine](https://www.unrealengine.com/en-US/). Learning everyday to stay forefront in web development.
 
-- Native spanish 🇲🇽 speaker learning english 🇬🇧. 
-- I love cold weather ❄️ and spicy food 🌶️.
+- 🌎 Native spanish speaker learning english.
+- ☁️ I love cold weather and spicy food.
 - 
 
 ## Contact
