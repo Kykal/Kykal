@@ -6,7 +6,7 @@ I develop websites for fun, most of them are video game themed, I am also learni
 - 🤔 ?
 
 ## Main proyects
-### GitHub badge generator
+### [GitHub badge generator](https://github.com/Kykal/github-badge-generator)
 Want to create technology badges for your ``.md`` files or anything you need? You can by [visiting my web app](https://kykal.github.io/github-badge-generator/) I developed using [React library](https://reactjs.org/).
 
 
