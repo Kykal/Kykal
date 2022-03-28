@@ -5,6 +5,12 @@ I develop websites for fun, most of them are video game themed, I am also learni
 - ☁️ I love cold weather and spicy food.
 - 🤔 ?
 
+## Main proyects
+### GitHub badge generator
+Want to create technology badges for your ``.md`` files or anything you need? You can by [visiting my web app](https://kykal.github.io/github-badge-generator/) I developed using [React library](https://reactjs.org/).
+
+
+
 ## Contact
 [<img align="left" alt="LinkedIn" width="45" src="https://user-images.githubusercontent.com/54295964/147859143-3424f970-56eb-49ac-82a5-99924de2ff3f.png" >](https://www.linkedin.com/in/benavidesalan/)
 [<img align="left" alt="Gmail" width="45" src="https://user-images.githubusercontent.com/54295964/147859234-968ae73b-7f3b-4e29-bb4b-885dfdd249de.png" >](mailto:kykalhd@gmail.com)
