@@ -3,11 +3,12 @@ I develop websites for fun, most of them are video game themed, I am also learni
 
 - 🌎 Native spanish speaker learning english.
 - ☁️ I love cold weather and spicy food.
+- 🥭 I love mango cake.
 - 🤔 ?
 
 ## Main proyects
 ### [GitHub badge generator](https://github.com/Kykal/github-badge-generator)
-Want to create technology badges for your ``.md`` files or anything you need? You can by [visiting my web app](https://kykal.github.io/github-badge-generator/) I developed using [React library](https://reactjs.org/).
+Generate the badges you need for your projects to share which techonologies you used to develop it. ;)
 
 
 
