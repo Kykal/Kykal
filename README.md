@@ -3,7 +3,7 @@ I develop websites for fun, most of them are video game themed, I am also learni
 
 - 🌎 Native spanish speaker learning english.
 - ☁️ I love cold weather and spicy food.
-- 🥭 I love mango cake.
+- 🥭 Give me mango cake.
 - 🤔 ?
 
 ## Main proyects
