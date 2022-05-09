@@ -6,7 +6,7 @@ I develop websites for fun, most of them are video game themed, I am also learni
 - 🥭 Give me mango cake.
 - 🤔 ?
 
-## Main proyects
+## Main projects
 ### [GitHub badge generator](https://github.com/Kykal/github-badge-generator)
 Generate the badges you need for your projects to share which techonologies you used to develop it. ;)
 
