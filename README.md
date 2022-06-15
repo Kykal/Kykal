@@ -38,6 +38,7 @@ Find out how much progression we have done through the year!
 [<img align="left" alt="Redux" width="45" src="https://user-images.githubusercontent.com/54295964/172937704-f5dcb740-ec7b-48da-bfe0-65800e740add.png" >](https://redux.js.org/)
 [<img align="left" alt="Material UI" height="45" src="https://user-images.githubusercontent.com/54295964/147859532-439dd29d-d595-4ee3-9f68-9ef067fcf7ca.png" >](https://mui.com/)
 [<img align="left" alt="Mantine" height="45" src="https://user-images.githubusercontent.com/54295964/149887770-4a30e3fa-2bd2-46a3-adb3-e5a9546c96f2.png" >](https://mantine.dev/)
+[<img align="left" alt="styled-components" height="45" src="https://user-images.githubusercontent.com/54295964/173736802-2e14f126-fcbe-4a90-a94a-e3d11685b717.png" >](https://styled-components.com/)
 [<img align="left" alt="MongoDB" height="45" src="https://user-images.githubusercontent.com/54295964/147859995-a7e39e25-a75d-41ee-adb5-9304d9a03d7f.png" >](https://www.mongodb.com/)
 [<img align="left" alt="NodeJS" height="45" src="https://user-images.githubusercontent.com/54295964/147860462-b5014a9a-e273-4771-9e39-b60e5738eba6.png" >](https://nodejs.org/en/)
 [<img align="left" alt="JavaScript" width="45" src="https://user-images.githubusercontent.com/54295964/147859442-0de8e123-5f7b-4a72-b4bc-31a263574b2f.png" >](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -49,4 +50,4 @@ Find out how much progression we have done through the year!
 ### Day to day tools
 [<img align="left" alt="Visual Studio Code" width="45" src="https://user-images.githubusercontent.com/54295964/147859280-539644b2-61e9-4ed6-9c99-49742d15a104.png" >](https://code.visualstudio.com/)
 [<img align="left" alt="Github Desktop" width="45" src="https://user-images.githubusercontent.com/54295964/147859328-0e7072cb-ba6b-4934-ac7c-691bcad92836.png" >](https://desktop.github.com/)
-[<img align="left" alt="Github" width="45" src="https://user-images.githubusercontent.com/54295964/154889460-5b97bb7d-7546-46cd-a185-d317706a0aca.png" >](https://git-scm.com/)
+[<img align="left" alt="Git" width="45" src="https://user-images.githubusercontent.com/54295964/154889460-5b97bb7d-7546-46cd-a185-d317706a0aca.png" >](https://git-scm.com/)
