@@ -13,6 +13,8 @@ An e-commerce webapp, where you can look up for PC components, accesories and pe
 Generate the badges you need for your projects to share which techonologies you used to develop it. ;)
 ### [Year progress](https://github.com/Kykal/year-progress)
 Find out how much progression we have done through the year!
+### [TODO List](https://github.com/Kykal/todo-list)
+Take notes of your tasks!
 
 
 ## Contact
