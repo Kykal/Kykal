@@ -36,6 +36,7 @@ Take notes of your tasks!
 
 ### Web development tools
 [<img align="left" alt="ReactJS" width="45" src="https://user-images.githubusercontent.com/54295964/147859363-9b3664c2-16e5-4942-9543-85a13448a15c.png" >](https://reactjs.org/)
+[<img align="left" alt="TypeScript" width="45" src="https://user-images.githubusercontent.com/54295964/183588296-11594bc4-6ffa-4406-bab8-04c9dff4b27c.png" >](https://www.typescriptlang.org/)
 [<img align="left" alt="React-Router" width="45" src="https://user-images.githubusercontent.com/54295964/172937426-a299a368-6e74-460b-bf62-60d871b1d62e.png" >](https://reactrouter.com/)
 [<img align="left" alt="Redux" width="45" src="https://user-images.githubusercontent.com/54295964/172937704-f5dcb740-ec7b-48da-bfe0-65800e740add.png" >](https://redux.js.org/)
 [<img align="left" alt="Material UI" height="45" src="https://user-images.githubusercontent.com/54295964/147859532-439dd29d-d595-4ee3-9f68-9ef067fcf7ca.png" >](https://mui.com/)
