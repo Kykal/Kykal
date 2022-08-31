@@ -11,6 +11,8 @@ I develop websites for fun, most of them are video game themed, I am also learni
 An e-commerce webapp, where you can look up for PC components, accesories and peripherals; add them to your cart and "purchase" them.
 ### [GitHub badge generator](https://github.com/Kykal/github-badge-generator)
 Generate the badges you need for your projects to share which techonologies you used to develop it. ;)
+### [League of Legends Champions Data](https://github.com/Kykal/league-of-legends-champions-data)
+Browse all champions and read its information.
 ### [Year progress](https://github.com/Kykal/year-progress)
 Find out how much progression we have done through the year!
 ### [TODO List](https://github.com/Kykal/todo-list)
