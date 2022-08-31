@@ -50,7 +50,14 @@ Take notes of your tasks!
 <br>
 <br>
 
-### Day to day tools
+### Design tools
+[<img align="left" alt="Figma" width="45" src="https://user-images.githubusercontent.com/54295964/187680552-554cc80d-0019-49ad-873b-5cd529c7b359.png" >](https://www.figma.com/)
+[<img align="left" alt="Adobe XD" width="45" src="https://user-images.githubusercontent.com/54295964/187680912-e2fd1ed3-3a7a-44d1-927e-d5dcdd139bfb.png" >](https://www.adobe.com/products/xd.html)
+
+<br>
+<br>
+
+### General tools
 [<img align="left" alt="Visual Studio Code" width="45" src="https://user-images.githubusercontent.com/54295964/147859280-539644b2-61e9-4ed6-9c99-49742d15a104.png" >](https://code.visualstudio.com/)
 [<img align="left" alt="Github Desktop" width="45" src="https://user-images.githubusercontent.com/54295964/147859328-0e7072cb-ba6b-4934-ac7c-691bcad92836.png" >](https://desktop.github.com/)
 [<img align="left" alt="Git" width="45" src="https://user-images.githubusercontent.com/54295964/154889460-5b97bb7d-7546-46cd-a185-d317706a0aca.png" >](https://git-scm.com/)
