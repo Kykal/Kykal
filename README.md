@@ -57,6 +57,16 @@ Take notes of your tasks!
 <br>
 <br>
 
+### Mobile development tools
+
+[<img align="left" alt="Flutter" height="45" src="https://user-images.githubusercontent.com/54295964/192085477-3318cb67-cbec-4deb-84a0-6d559be73863.png" >](https://flutter.dev/)
+[<img align="left" alt="Flutter" height="45" src="https://user-images.githubusercontent.com/54295964/192085678-e4c95999-a651-4963-8b24-23d89bd38fec.png" >](https://dart.dev/)
+
+
+<br>
+<br>
+
+
 ### Design tools
 [<img align="left" alt="Figma" width="45" src="https://user-images.githubusercontent.com/54295964/187680552-554cc80d-0019-49ad-873b-5cd529c7b359.png" >](https://www.figma.com/)
 [<img align="left" alt="Adobe XD" width="45" src="https://user-images.githubusercontent.com/54295964/187680912-e2fd1ed3-3a7a-44d1-927e-d5dcdd139bfb.png" >](https://www.adobe.com/products/xd.html)
