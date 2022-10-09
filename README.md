@@ -31,7 +31,6 @@ I develop websites for fun, most of them are video game themed, I am also learni
 [<img align="left" alt="Material UI" height="45" src="https://user-images.githubusercontent.com/54295964/147859532-439dd29d-d595-4ee3-9f68-9ef067fcf7ca.png" >](https://mui.com/)
 [<img align="left" alt="Mantine" height="45" src="https://user-images.githubusercontent.com/54295964/149887770-4a30e3fa-2bd2-46a3-adb3-e5a9546c96f2.png" >](https://mantine.dev/)
 [<img align="left" alt="styled-components" height="45" src="https://user-images.githubusercontent.com/54295964/173736802-2e14f126-fcbe-4a90-a94a-e3d11685b717.png" >](https://styled-components.com/)
-[<img align="left" alt="MongoDB" height="45" src="https://user-images.githubusercontent.com/54295964/147859995-a7e39e25-a75d-41ee-adb5-9304d9a03d7f.png" >](https://www.mongodb.com/)
 [<img align="left" alt="NodeJS" height="45" src="https://user-images.githubusercontent.com/54295964/147860462-b5014a9a-e273-4771-9e39-b60e5738eba6.png" >](https://nodejs.org/en/)
 [<img align="left" alt="JavaScript" width="45" src="https://user-images.githubusercontent.com/54295964/147859442-0de8e123-5f7b-4a72-b4bc-31a263574b2f.png" >](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img align="left" alt="CSS" height="45" src="https://user-images.githubusercontent.com/54295964/147859473-632a977b-eff7-4b35-94d5-298c1c5614aa.png" >](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -48,6 +47,12 @@ I develop websites for fun, most of them are video game themed, I am also learni
 <br>
 <br>
 
+
+### Databases
+[<img align="left" alt="MongoDB" height="45" src="https://user-images.githubusercontent.com/54295964/147859995-a7e39e25-a75d-41ee-adb5-9304d9a03d7f.png" >](https://www.mongodb.com/)
+
+<br>
+<br>
 
 ### Design tools
 [<img align="left" alt="Figma" width="45" src="https://user-images.githubusercontent.com/54295964/187680552-554cc80d-0019-49ad-873b-5cd529c7b359.png" >](https://www.figma.com/)
