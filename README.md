@@ -10,18 +10,10 @@ I develop websites for fun, most of them are video game themed, I am also learni
 [<img align="left" alt="LinkedIn" width="45" src="https://user-images.githubusercontent.com/54295964/147859143-3424f970-56eb-49ac-82a5-99924de2ff3f.png" >](https://www.linkedin.com/in/benavidesalan/)
 [<img align="left" alt="Gmail" width="45" src="https://user-images.githubusercontent.com/54295964/147859234-968ae73b-7f3b-4e29-bb4b-885dfdd249de.png" >](mailto:kykalhd@gmail.com)
 [<img align="left" alt="Outlook" width="45" src="https://user-images.githubusercontent.com/54295964/147859235-a4b3c5a8-7b1a-4b02-9d3d-ce096a2fa32c.png" >](mailto:benavdes.alan@hotmail.com)
-
 <br>
 <br>
 
 - - -
-
-### Video game development tools
-[<img align="left" alt="Unity" width="45" src="https://user-images.githubusercontent.com/54295964/147859908-795e88dd-caa7-4c6f-bde7-5619165a0935.png" >](https://unity.com/)
-[<img align="left" alt="C#" width="45" src="https://user-images.githubusercontent.com/54295964/147859954-25306043-dc40-4d52-97c7-c4d26b26a4e7.png" >](https://unity.com/)
-
-<br>
-<br>
 
 ### Web development tools
 [<img align="left" alt="ReactJS" width="45" src="https://user-images.githubusercontent.com/54295964/147859363-9b3664c2-16e5-4942-9543-85a13448a15c.png" >](https://reactjs.org/)
@@ -38,12 +30,18 @@ I develop websites for fun, most of them are video game themed, I am also learni
 <br>
 <br>
 
+
 ### Mobile development tools
 
 [<img align="left" alt="Flutter" height="45" src="https://user-images.githubusercontent.com/54295964/192085477-3318cb67-cbec-4deb-84a0-6d559be73863.png" >](https://flutter.dev/)
 [<img align="left" alt="Flutter" height="45" src="https://user-images.githubusercontent.com/54295964/192085678-e4c95999-a651-4963-8b24-23d89bd38fec.png" >](https://dart.dev/)
+<br>
+<br>
 
 
+### Video game development tools
+[<img align="left" alt="Unity" width="45" src="https://user-images.githubusercontent.com/54295964/147859908-795e88dd-caa7-4c6f-bde7-5619165a0935.png" >](https://unity.com/)
+[<img align="left" alt="C#" width="45" src="https://user-images.githubusercontent.com/54295964/147859954-25306043-dc40-4d52-97c7-c4d26b26a4e7.png" >](https://unity.com/)
 <br>
 <br>
 
@@ -51,22 +49,21 @@ I develop websites for fun, most of them are video game themed, I am also learni
 ### Database systems
 [<img align="left" alt="MongoDB" height="45" src="https://user-images.githubusercontent.com/54295964/147859995-a7e39e25-a75d-41ee-adb5-9304d9a03d7f.png" >](https://www.mongodb.com/)
 [<img align="left" alt="Firebase" height="45" src="https://user-images.githubusercontent.com/54295964/200946071-2b406588-e10f-40b6-aee4-637b432e2410.png" >](https://firebase.google.com/)
+<br>
+<br>
 
-<br>
-<br>
 
 ### Design tools
 [<img align="left" alt="Figma" width="45" src="https://user-images.githubusercontent.com/54295964/187680552-554cc80d-0019-49ad-873b-5cd529c7b359.png" >](https://www.figma.com/)
 [<img align="left" alt="Adobe XD" width="45" src="https://user-images.githubusercontent.com/54295964/187680912-e2fd1ed3-3a7a-44d1-927e-d5dcdd139bfb.png" >](https://www.adobe.com/products/xd.html)
+<br>
+<br>
 
-<br>
-<br>
 
 ### General tools
 [<img align="left" alt="Visual Studio Code" width="45" src="https://user-images.githubusercontent.com/54295964/147859280-539644b2-61e9-4ed6-9c99-49742d15a104.png" >](https://code.visualstudio.com/)
 [<img align="left" alt="Github Desktop" width="45" src="https://user-images.githubusercontent.com/54295964/147859328-0e7072cb-ba6b-4934-ac7c-691bcad92836.png" >](https://desktop.github.com/)
 [<img align="left" alt="Git" width="45" src="https://user-images.githubusercontent.com/54295964/154889460-5b97bb7d-7546-46cd-a185-d317706a0aca.png" >](https://git-scm.com/)
-
 <br>
 <br>
 
