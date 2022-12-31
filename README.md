@@ -64,24 +64,3 @@ I develop websites for fun, most of them are video game themed, I am also learni
 [<img align="left" alt="Visual Studio Code" width="45" src="https://user-images.githubusercontent.com/54295964/147859280-539644b2-61e9-4ed6-9c99-49742d15a104.png" >](https://code.visualstudio.com/)
 [<img align="left" alt="Github Desktop" width="45" src="https://user-images.githubusercontent.com/54295964/147859328-0e7072cb-ba6b-4934-ac7c-691bcad92836.png" >](https://desktop.github.com/)
 [<img align="left" alt="Git" width="45" src="https://user-images.githubusercontent.com/54295964/154889460-5b97bb7d-7546-46cd-a185-d317706a0aca.png" >](https://git-scm.com/)
-<br>
-<br>
-
-- - -
-
-## Main projects
-### [Gamering | E-commerce webapp](https://e-commerce-kykal.vercel.app/) (in develop)
-###### [See repository](https://github.com/Kykal/e-commerce/)
-An e-commerce webapp, where you can look up for PC components, accesories and peripherals; add them to your cart and "purchase" them.
-### [GitHub badge generator](https://github-badge-generator-kykal.vercel.app/)
-###### [See repository](https://github.com/Kykal/github-badge-generator/)
-Generate the badges you need for your projects to share which techonologies you used to develop it. ;)
-### [League of Legends Champions Data](https://league-of-legends-champions-data-kykal.vercel.app/)
-###### [See repository](https://github.com/Kykal/league-of-legends-champions-data/)
-Browse all champions and read its information.
-### [Year progress](https://year-progress-kykal.vercel.app/)
-###### [See repository](https://github.com/Kykal/year-progress/)
-Find out how much progression we have done through the year!
-### [TODO List](https://todo-list-kykal.vercel.app/)
-###### [See repository](https://github.com/Kykal/todo-list/)
-Take notes of your tasks!
