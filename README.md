@@ -31,7 +31,6 @@ I develop websites for fun, most of them are video game themed, I am also learni
 
 
 ### Mobile development tools
-
 [<img align="left" alt="Flutter" height="45" src="https://user-images.githubusercontent.com/54295964/192085477-3318cb67-cbec-4deb-84a0-6d559be73863.png" >](https://flutter.dev/)
 [<img align="left" alt="Flutter" height="45" src="https://user-images.githubusercontent.com/54295964/192085678-e4c95999-a651-4963-8b24-23d89bd38fec.png" >](https://dart.dev/)
 <br>
