@@ -1,11 +1,11 @@
 # ☃️ Hey, Benavides here!
-I develop websites for fun, most of them are video game themed, I am also learning video game development using [Unity](https://unity.com/). Learning everyday to stay forefront in web development.
+ReactJS Developer enthusiast. I like developing intuitive web applications with accessibility and SEO implementations.
+
 
 - 🌎 Native Spanish speaker.
 - 🌎 English level B2.
-- ☁️ I love cold weather and spicy food.
-- 🥭 Give me mango cake.
 - 🤔 ?
+
 
 ## Contact
 [<img align="left" alt="LinkedIn" width="45" src="https://user-images.githubusercontent.com/54295964/147859143-3424f970-56eb-49ac-82a5-99924de2ff3f.png" >](https://www.linkedin.com/in/benavidesalan/)
@@ -35,13 +35,6 @@ I develop websites for fun, most of them are video game themed, I am also learni
 ### Mobile development tools
 [<img align="left" alt="Flutter" height="45" src="https://user-images.githubusercontent.com/54295964/192085477-3318cb67-cbec-4deb-84a0-6d559be73863.png" >](https://flutter.dev/)
 [<img align="left" alt="Flutter" height="45" src="https://user-images.githubusercontent.com/54295964/192085678-e4c95999-a651-4963-8b24-23d89bd38fec.png" >](https://dart.dev/)
-<br>
-<br>
-
-
-### Video game development tools
-[<img align="left" alt="Unity" width="45" src="https://user-images.githubusercontent.com/54295964/147859908-795e88dd-caa7-4c6f-bde7-5619165a0935.png" >](https://unity.com/)
-[<img align="left" alt="C#" width="45" src="https://user-images.githubusercontent.com/54295964/147859954-25306043-dc40-4d52-97c7-c4d26b26a4e7.png" >](https://unity.com/)
 <br>
 <br>
 
