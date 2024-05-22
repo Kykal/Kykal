@@ -1,5 +1,5 @@
 # ☃️ Hey, Benavides here!
-ReactJS Developer enthusiast. I like developing intuitive web applications with accessibility and SEO implementations.
+ReactJS Developer enthusiast.
 
 
 - 🌎 Native Spanish speaker.
